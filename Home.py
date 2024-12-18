@@ -15,4 +15,6 @@ with st.container():
     st.title("iPig :pig:")
     st.write("- Python Programmer")
     st.write("- Discord Bot Developer")
+    st.write("- Valorant Player(Gold 2)")
+    st.write("- CS2 Player")
     
